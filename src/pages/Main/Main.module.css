@@ -1,0 +1,178 @@
+.main{
+}
+
+.promo{
+  margin-top: 30px;
+  width: 100%;
+  height: 620px;
+  background-image: url('/src/assets/images/Rectangle 48.png');
+  background-size: cover;
+}
+
+.promoTitle{
+  font-style: normal;
+  font-weight: 700;
+  font-size: 58px;
+  line-height: 80px;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+  text-align: center;
+  width: 100%;
+  display: inline-block;
+}
+
+.promo span{
+  font-size: 29px;
+  color: #ffffff;
+  text-align: center;
+  width: 100%;
+  display: inline-block;
+}
+
+.discoverWrapper{
+  padding-top: 40px;
+}
+
+
+.discoverWrapper input{
+  background: #FFFFFF;
+  border-radius: 15px 0px 0px 15px;
+  padding: 16px 24px;
+  width: 300px;
+  border: none;
+  height: 63px;
+}
+
+.discoverWrapper button{
+  background: #F54748;
+  box-shadow: 0px 10px 20px -10px rgba(234, 234, 234, 0.4);
+  border-radius: 0px 16px 16px 0px;
+  color: #ffffff;
+  width: 160px;
+  height: 64px;
+  position: relative;
+  top: -0.5px;
+}
+
+
+.popular{
+}
+
+.divideLine{
+  border: 3px solid #E4E4E4;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.popular h2{
+  padding-top: 70px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 36px;
+  letter-spacing: 0.1px;
+  color: #000000;
+  opacity: 0.8;
+  text-align: center;
+  padding-bottom: 22px;
+}
+
+.popular p{
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.1px;
+  color: #D51A21;
+  text-align: center;
+}
+
+.dishes{
+  padding: 70px 0;
+  width: 100%;
+  height: 800px;
+  background-color: rgba(213, 26, 33, 0.56);;
+}
+
+.dish{
+  background: #FFFFFF;
+  box-shadow: 0px 30px 60px rgba(57, 57, 57, 0.1);
+  border-radius: 30px;
+  width: 218px;
+  height: 264px;
+}
+
+.dish p{
+  font-family: Antic Didone, sans-serif;
+  width: 100%;
+  text-align: center;
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.dish span{
+  font-family: Antic Didone, sans-serif;
+  width: 100%;
+  text-align: center;
+  font-size: 17px;
+  display: inline-block;
+}
+
+.dishImage{
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  top: -20px;
+}
+
+.seeMore{
+  background-color: #f54748;
+  border-radius: 6px;
+  padding: 10px 20px;
+  color: #fff;
+  margin-top: 20px;
+  display: inline-block;
+  height: 46px;
+}
+
+.seeMore a{
+  font-weight: 400;
+  height: 100%;
+  display: inline-block;
+}
+
+.location{
+
+}
+
+.locationText span{
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.1px;
+  color: #FA4A0C;
+  margin-bottom: 30px;
+  display: inline-block;
+  padding-top: 50px;
+}
+
+
+.locationText p:nth-child(2){
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 57px;
+  letter-spacing: 0.2px;
+  color: #252B42;
+  margin-bottom: 30px;
+}
+
+.locationText p:nth-child(3){
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 38px;
+  letter-spacing: 0.2px;
+  color: #737373;
+}

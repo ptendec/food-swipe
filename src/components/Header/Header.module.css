@@ -1,0 +1,39 @@
+.header{
+
+}
+
+.header a{
+  font-weight: 600;
+}
+
+.navbar{
+  padding-top: 60px;
+}
+
+.authButton{
+  border: 1px solid #F54748;
+  border-radius: 6px;
+  padding: 10px 20px;
+  color: #f54748;
+  height: 46px;
+}
+
+.authButton a{
+  font-weight: 400;
+  height: 100%;
+  display: inline-block;
+}
+
+.regButton{
+  background-color: #f54748;
+  border-radius: 6px;
+  padding: 10px 20px;
+  color: #fff;
+  height: 46px;
+}
+
+.regButton a{
+  font-weight: 400;
+  height: 100%;
+  display: inline-block;
+}
